@@ -1,0 +1,11 @@
+How to Play :
+Click "miniJ.exe" to start the game.
+"平仮名" is Hiragana.
+"片仮名" is Katakana.
+"両方" is both.
+
+The special word with special spell↓
+ち、チ : di , chi
+し、シ : si , shi
+つ、ツ : tsu , tu
+ん、ン : nn
