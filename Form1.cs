@@ -189,7 +189,8 @@ namespace miniJ
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
-            game.Abort();
+            if(game != null)
+                game.Abort();
         }
 
         private void create_word()
