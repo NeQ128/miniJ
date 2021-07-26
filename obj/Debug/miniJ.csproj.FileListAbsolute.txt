@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\miniJ\bin\Debug\miniJ.exe.config
+C:\Users\user\source\repos\miniJ\bin\Debug\miniJ.exe
+C:\Users\user\source\repos\miniJ\bin\Debug\miniJ.pdb
+C:\Users\user\source\repos\miniJ\obj\Debug\miniJ.csprojAssemblyReference.cache
+C:\Users\user\source\repos\miniJ\obj\Debug\miniJ.Form1.resources
+C:\Users\user\source\repos\miniJ\obj\Debug\miniJ.Properties.Resources.resources
+C:\Users\user\source\repos\miniJ\obj\Debug\miniJ.csproj.GenerateResource.cache
+C:\Users\user\source\repos\miniJ\obj\Debug\miniJ.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\miniJ\obj\Debug\miniJ.exe
+C:\Users\user\source\repos\miniJ\obj\Debug\miniJ.pdb
